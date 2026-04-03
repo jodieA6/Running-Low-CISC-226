@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: aeedb4aa856f60f499086eb1ec9aa8b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5994196211509565345
+    second: Battery Filling_0
+  - first:
+      213: 22604545604108169
+    second: Battery Filling_1
+  - first:
+      213: -2355154298564963392
+    second: Battery Filling_2
+  - first:
+      213: 8514558641134313253
+    second: Battery Filling_3
+  - first:
+      213: 2780098104705638110
+    second: Battery Filling_4
+  - first:
+      213: 2147610796518512676
+    second: Battery Filling_5
+  - first:
+      213: -5575319621325297334
+    second: Battery Filling_6
+  - first:
+      213: -6058425731532240508
+    second: Battery Filling_7
+  - first:
+      213: 3470001635244893877
+    second: Battery Filling_8
+  - first:
+      213: 7895439901027330567
+    second: Battery Filling_9
+  - first:
+      213: 5664447043584696312
+    second: Battery Filling_10
+  - first:
+      213: -4887368787848301915
+    second: Battery Filling_11
+  - first:
+      213: 7876867228097634154
+    second: Battery Filling_12
+  - first:
+      213: 5729073190045532273
+    second: Battery Filling_13
+  - first:
+      213: 3663675230819369919
+    second: Battery Filling_14
+  - first:
+      213: 2049490875297228889
+    second: Battery Filling_15
+  - first:
+      213: 1297596547740114257
+    second: Battery Filling_16
+  - first:
+      213: -8642947796912159061
+    second: Battery Filling_17
+  - first:
+      213: -7441966079072468729
+    second: Battery Filling_18
+  - first:
+      213: 4164962367003174461
+    second: Battery Filling_19
+  - first:
+      213: 1827114214692739052
+    second: Battery Filling_20
+  - first:
+      213: -7281369008355980002
+    second: Battery Filling_21
+  - first:
+      213: 3282870878716951173
+    second: Battery Filling_22
+  - first:
+      213: -3143218683242185716
+    second: Battery Filling_23
+  - first:
+      213: -7129273253061836369
+    second: Battery Filling_24
+  - first:
+      213: 872387050694430765
+    second: Battery Filling_25
+  - first:
+      213: 1284631289539514637
+    second: Battery Filling_26
+  - first:
+      213: 8324067904389949825
+    second: Battery Filling_27
+  - first:
+      213: 2132499319281059579
+    second: Battery Filling_28
+  - first:
+      213: 7020372587927410740
+    second: Battery Filling_29
+  - first:
+      213: -4137654203739394318
+    second: Battery Filling_30
+  - first:
+      213: -9113881692987555044
+    second: Battery Filling_31
+  - first:
+      213: 720800088828617591
+    second: Battery Filling_32
+  - first:
+      213: -6241928604351997640
+    second: Battery Filling_33
+  - first:
+      213: -1728772364028194622
+    second: Battery Filling_34
+  - first:
+      213: 6480603322466614036
+    second: Battery Filling_35
+  - first:
+      213: 2652543792415911411
+    second: Battery Filling_36
+  - first:
+      213: -3676253999113397689
+    second: Battery Filling_37
+  - first:
+      213: -5157769072320552256
+    second: Battery Filling_38
+  - first:
+      213: -7326056822861017711
+    second: Battery Filling_39
+  - first:
+      213: 5775540164752811637
+    second: Battery Filling_40
+  - first:
+      213: 5784529406362411206
+    second: Battery Filling_41
+  - first:
+      213: 4343695620379930881
+    second: Battery Filling_42
+  - first:
+      213: 8352309148999052212
+    second: Battery Filling_43
+  - first:
+      213: -8557158573273397537
+    second: Battery Filling_44
+  - first:
+      213: 1740981296208442908
+    second: Battery Filling_45
+  - first:
+      213: -5095253017800440879
+    second: Battery Filling_46
+  - first:
+      213: 3699622296995405683
+    second: Battery Filling_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Battery Filling_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7150d12b9af2350800000000000000
+      internalID: 5994196211509565345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fba07e6be405000800000000000000
+      internalID: 22604545604108169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c31dc2c4afc05fd0800000000000000
+      internalID: -2355154298564963392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f1b08d8f9c92670800000000000000
+      internalID: 8514558641134313253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede57b32f74e49620800000000000000
+      internalID: 2780098104705638110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428974214a8ddcd10800000000000000
+      internalID: 2147610796518512676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49e3adf75c70a2b0800000000000000
+      internalID: -5575319621325297334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4894fe565e52ceba0800000000000000
+      internalID: -6058425731532240508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6ebc63a1ce72030800000000000000
+      internalID: 3470001635244893877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70aed2612cc329d60800000000000000
+      internalID: 7895439901027330567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff90e913982c9e40800000000000000
+      internalID: 5664447043584696312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a278f95bf39c2cb0800000000000000
+      internalID: -4887368787848301915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fdca1b201405d60800000000000000
+      internalID: 7876867228097634154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170c0e066b1c18f40800000000000000
+      internalID: 5729073190045532273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3c261263df7d230800000000000000
+      internalID: 3663675230819369919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958ee78a711417c10800000000000000
+      internalID: 2049490875297228889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d92d96f2df10210800000000000000
+      internalID: 1297596547740114257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba64ec065c41e0880800000000000000
+      internalID: -8642947796912159061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_18
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7010162c743d8b890800000000000000
+      internalID: -7441966079072468729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_19
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d362814b43becc930800000000000000
+      internalID: 4164962367003174461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7d3d2a2b63b5910800000000000000
+      internalID: 1827114214692739052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_21
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d476a177163fa90800000000000000
+      internalID: -7281369008355980002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58af569bba91f8d20800000000000000
+      internalID: 3282870878716951173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_23
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c7af5d24b0164d0800000000000000
+      internalID: -3143218683242185716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_24
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa14e84bfbbbf0d90800000000000000
+      internalID: -7129273253061836369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_25
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20da4786675b1c00800000000000000
+      internalID: 872387050694430765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_26
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01da500a5de3d110800000000000000
+      internalID: 1284631289539514637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_27
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189a46ff7a7058370800000000000000
+      internalID: 8324067904389949825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_28
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6828915d8289d10800000000000000
+      internalID: 2132499319281059579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_29
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4389d465caf5d6160800000000000000
+      internalID: 7020372587927410740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_30
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe26b68c691496c0800000000000000
+      internalID: -4137654203739394318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_31
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c138a8c33ecf48180800000000000000
+      internalID: -9113881692987555044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_32
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77323b0acdbc00a00800000000000000
+      internalID: 720800088828617591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_33
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839df3861073069a0800000000000000
+      internalID: -6241928604351997640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_34
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c05690c1ba2208e0800000000000000
+      internalID: -1728772364028194622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_35
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bb6d5d26abfe950800000000000000
+      internalID: 6480603322466614036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_36
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd2e12868abfc420800000000000000
+      internalID: 2652543792415911411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_37
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a9cb627725bfcc0800000000000000
+      internalID: -3676253999113397689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_38
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c266d21b5ceb68b0800000000000000
+      internalID: -5157769072320552256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_39
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dca0d722e945a90800000000000000
+      internalID: -7326056822861017711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_40
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576a7120e27d62050800000000000000
+      internalID: 5775540164752811637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_41
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0680be8d6c64050800000000000000
+      internalID: 5784529406362411206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_42
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1017a212728e74c30800000000000000
+      internalID: 4343695620379930881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_43
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb65582bec59e370800000000000000
+      internalID: 8352309148999052212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_44
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6c9598d9dde3980800000000000000
+      internalID: -8557158573273397537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_45
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c167a19c345392810800000000000000
+      internalID: 1740981296208442908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_46
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3844940660a49b0800000000000000
+      internalID: -5095253017800440879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battery Filling_47
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 9
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f968fa0e2b75330800000000000000
+      internalID: 3699622296995405683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Battery Filling_0: 5994196211509565345
+      Battery Filling_1: 22604545604108169
+      Battery Filling_10: 5664447043584696312
+      Battery Filling_11: -4887368787848301915
+      Battery Filling_12: 7876867228097634154
+      Battery Filling_13: 5729073190045532273
+      Battery Filling_14: 3663675230819369919
+      Battery Filling_15: 2049490875297228889
+      Battery Filling_16: 1297596547740114257
+      Battery Filling_17: -8642947796912159061
+      Battery Filling_18: -7441966079072468729
+      Battery Filling_19: 4164962367003174461
+      Battery Filling_2: -2355154298564963392
+      Battery Filling_20: 1827114214692739052
+      Battery Filling_21: -7281369008355980002
+      Battery Filling_22: 3282870878716951173
+      Battery Filling_23: -3143218683242185716
+      Battery Filling_24: -7129273253061836369
+      Battery Filling_25: 872387050694430765
+      Battery Filling_26: 1284631289539514637
+      Battery Filling_27: 8324067904389949825
+      Battery Filling_28: 2132499319281059579
+      Battery Filling_29: 7020372587927410740
+      Battery Filling_3: 8514558641134313253
+      Battery Filling_30: -4137654203739394318
+      Battery Filling_31: -9113881692987555044
+      Battery Filling_32: 720800088828617591
+      Battery Filling_33: -6241928604351997640
+      Battery Filling_34: -1728772364028194622
+      Battery Filling_35: 6480603322466614036
+      Battery Filling_36: 2652543792415911411
+      Battery Filling_37: -3676253999113397689
+      Battery Filling_38: -5157769072320552256
+      Battery Filling_39: -7326056822861017711
+      Battery Filling_4: 2780098104705638110
+      Battery Filling_40: 5775540164752811637
+      Battery Filling_41: 5784529406362411206
+      Battery Filling_42: 4343695620379930881
+      Battery Filling_43: 8352309148999052212
+      Battery Filling_44: -8557158573273397537
+      Battery Filling_45: 1740981296208442908
+      Battery Filling_46: -5095253017800440879
+      Battery Filling_47: 3699622296995405683
+      Battery Filling_5: 2147610796518512676
+      Battery Filling_6: -5575319621325297334
+      Battery Filling_7: -6058425731532240508
+      Battery Filling_8: 3470001635244893877
+      Battery Filling_9: 7895439901027330567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

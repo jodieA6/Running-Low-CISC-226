@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f8077e10817b904789ce3b14f1e4607, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: Assembly-CSharp::Leveldata
+  nextLevel: MainMenu
+  spawnLocations:
+  - {x: -29, y: 126, z: 10}
+  - {x: 51, y: 145, z: 10}
+  - {x: 130, y: 126, z: 10}
+  cameraPositions:
+  - {x: 5, y: 143, z: -10}
+  - {x: 84.7, y: 143, z: -10}
+  - {x: 165, y: 143, z: -10}
+  screenTransitions:
+  - screenTransition1
+  - ScreenTransition2
+  waterfalls: {fileID: 0}
+  smoshers:
+  - smosherName: Smosher0
+    smosherTriggerName: SmosherTrigger0
+    stopColliderName: 
+    topPosition: {x: -25.41, y: 132, z: 0}
+    bottomPosition: {x: -25.41, y: 126.7, z: 0}
+    dropSpeed: 10
+    riseSpeed: 15
+    waitAtTop: 2
+    waitAtBottom: 1
+    playThudOnLand: 1
+  - smosherName: Smosher1
+    smosherTriggerName: SmosherTrigger1
+    stopColliderName: 
+    topPosition: {x: -10, y: 132, z: 0}
+    bottomPosition: {x: -10, y: 126.7, z: 0}
+    dropSpeed: 20
+    riseSpeed: 15
+    waitAtTop: 1
+    waitAtBottom: 1
+    playThudOnLand: 1
+  - smosherName: Smosher2
+    smosherTriggerName: SmosherTrigger2
+    stopColliderName: 
+    topPosition: {x: 5, y: 132, z: 0}
+    bottomPosition: {x: 5, y: 126.7, z: 0}
+    dropSpeed: 20
+    riseSpeed: 15
+    waitAtTop: 0.5
+    waitAtBottom: 1
+    playThudOnLand: 1
+  - smosherName: Smosher3
+    smosherTriggerName: SmosherTrigger3
+    stopColliderName: 
+    topPosition: {x: 21, y: 132, z: 0}
+    bottomPosition: {x: 21, y: 126.7, z: 0}
+    dropSpeed: 20
+    riseSpeed: 15
+    waitAtTop: 0.75
+    waitAtBottom: 1
+    playThudOnLand: 1
+  - smosherName: Smosher4
+    smosherTriggerName: 
+    stopColliderName: 
+    topPosition: {x: 75, y: 117, z: 0}
+    bottomPosition: {x: 75, y: 124.5, z: 0}
+    dropSpeed: 10
+    riseSpeed: 15
+    waitAtTop: 1
+    waitAtBottom: 3
+    playThudOnLand: 0
+  - smosherName: Smosher5
+    smosherTriggerName: 
+    stopColliderName: 
+    topPosition: {x: 86, y: 117, z: 0}
+    bottomPosition: {x: 86, y: 124.5, z: 0}
+    dropSpeed: 10
+    riseSpeed: 15
+    waitAtTop: 2
+    waitAtBottom: 4
+    playThudOnLand: 0
+  - smosherName: Smosher6
+    smosherTriggerName: 
+    stopColliderName: 
+    topPosition: {x: 97, y: 117, z: 0}
+    bottomPosition: {x: 97, y: 124.5, z: 0}
+    dropSpeed: 10
+    riseSpeed: 15
+    waitAtTop: 1
+    waitAtBottom: 3
+    playThudOnLand: 0
+  - smosherName: Smosher7
+    smosherTriggerName: SmosherTrigger7
+    stopColliderName: 
+    topPosition: {x: 75, y: 135, z: 0}
+    bottomPosition: {x: 75, y: 127.5, z: 0}
+    dropSpeed: 10
+    riseSpeed: 15
+    waitAtTop: 3
+    waitAtBottom: 1
+    playThudOnLand: 1
+  - smosherName: Smosher8
+    smosherTriggerName: SmosherTrigger8
+    stopColliderName: 
+    topPosition: {x: 97, y: 135, z: 0}
+    bottomPosition: {x: 97, y: 127.5, z: 0}
+    dropSpeed: 10
+    riseSpeed: 15
+    waitAtTop: 3
+    waitAtBottom: 1
+    playThudOnLand: 1
+  - smosherName: Smosher9
+    smosherTriggerName: SmosherTrigger9
+    stopColliderName: 
+    topPosition: {x: 147, y: 141, z: 0}
+    bottomPosition: {x: 147, y: 126.7, z: 0}
+    dropSpeed: 10
+    riseSpeed: 15
+    waitAtTop: 2
+    waitAtBottom: 4
+    playThudOnLand: 1
+  - smosherName: Smosher10
+    smosherTriggerName: SmosherTrigger10
+    stopColliderName: 
+    topPosition: {x: 163, y: 141, z: 0}
+    bottomPosition: {x: 163, y: 126.7, z: 0}
+    dropSpeed: 10
+    riseSpeed: 15
+    waitAtTop: 2
+    waitAtBottom: 4
+    playThudOnLand: 1
+  - smosherName: Smosher11
+    smosherTriggerName: SmosherTrigger11
+    stopColliderName: 
+    topPosition: {x: 179, y: 141, z: 0}
+    bottomPosition: {x: 179, y: 126.7, z: 0}
+    dropSpeed: 10
+    riseSpeed: 15
+    waitAtTop: 2
+    waitAtBottom: 4
+    playThudOnLand: 1
+  - smosherName: Smosher12
+    smosherTriggerName: 
+    stopColliderName: 
+    topPosition: {x: 149, y: 134.25, z: 0}
+    bottomPosition: {x: 194.5, y: 134.25, z: 0}
+    dropSpeed: 10
+    riseSpeed: 15
+    waitAtTop: 0
+    waitAtBottom: 3
+    playThudOnLand: 0
+  smosherLaunchForce: 30
